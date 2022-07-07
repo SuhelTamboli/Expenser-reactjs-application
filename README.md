@@ -1,3 +1,8 @@
+#Expenser Application
+
+This repository is created during code-along session, In this application you can store your daily expenses, you can search, add, delete those expenses. This app is created using React v18 using React Router, Redux, react-toastify, react-modal etc.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
