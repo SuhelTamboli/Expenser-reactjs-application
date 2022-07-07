@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #58e9e6;
+  color: #001f3f;
+}
+
+a {
+  text-decoration: none;
+  color: #001f3f;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
